@@ -1,0 +1,59 @@
+body {
+    background: rgb(26, 25, 25);
+}
+
+.Heading {
+ color: white;
+ font-size: 50px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-align: center;
+}
+
+
+.Paragraph{
+color: aliceblue;
+font-size: 50px;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-top: auto;
+margin-left: 1%;
+}
+
+.Bookmarker{
+    color: white;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(146, 140, 140);
+}
+
+#text{   
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    position: relative;
+    left: 130px;
+    top: 30px;
+}
+
+th{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    border: 2px, solid white;
+
+}
+td{
+    
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: white;
+        border: 2px, solid white;
+        
+    }
+    
+    
